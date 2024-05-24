@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
+<h2 align="center">Hi 👋, I'm Mohamed</h2>
 <h3 align="center">A 22-years-old passionate backend developer based in Egypt</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/nashaat10](https://github.com/nashaat10)
