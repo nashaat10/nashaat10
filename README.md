@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed nashaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed nashaat" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad nashaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad nashaat" height="30" width="40" /></a>
-<a href="https://instagram.com/nashaat.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nashaat.js" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/mohamed-nashaat-jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/mohamed-nashaat-jr" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/muhammad.nashaat.372?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhammad.nashaat.372?mibextid=lqqj4d" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/nashaat.jr?igsh=njljcwn1z3f2atnj&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nashaat.jr?igsh=njljcwn1z3f2atnj&utm_source=qr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
