@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">Software Engineer | Backend </h3>
 
-- 💬 Ask me about **JavaScript , Typescript , Node.js , Express , java ** 
+- 💬 Ask me about JavaScript , Typescript , Node.js , Express , java  
 
 - 📫 How to reach me **nashaatm661@gmail.com** 
 
