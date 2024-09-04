@@ -3,7 +3,7 @@
 
 - 💬 Ask me about : JavaScript , Typescript , Java , Node.js , Express ,MongoDB , PostgreSQL   
 
-- 📫 How to reach me **nashaatm661@gmail.com** 
+- 📫 How to reach me **nashaatt661@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
