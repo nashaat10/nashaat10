@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨🏻‍💻 I'm Mohamed Nashaat and I'm a software engineer based in Egypt<br>💬 Ask me about :   Node.js , Express , JavaScript , TypeScript <br>⚡ Fun fact :  Anime lover 
+ 👨🏻‍💻 I'm Mohamed Nashaat and I'm a software engineer based in Egypt<br>💬 Ask me about :   Node.js , Express , MongoDB , JavaScript , TypeScript <br>⚡ Fun fact :  Anime lover 
 
 
 ## 🌐 Socials:
