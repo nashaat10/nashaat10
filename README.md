@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨🏻‍💻 Software Engineer based in Egypt <br>💬 Ask me about :   Node.js , Express , MongoDB , JavaScript , TypeScript <br> 🌍 To reach me : nashaatt661@gmail.com  
+ 👨🏻‍💻 Software Engineer based in Egypt <br> 🌍 To reach me : nashaatt661@gmail.com  
 
 
 ## 🌐 Socials:
