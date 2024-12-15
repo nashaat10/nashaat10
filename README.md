@@ -17,5 +17,8 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer  with a love fo
 - Twitter: [nashaat_jr](https://x.com/nashaat_jr?s=21)
 - LinkedIn: [LinkedIn](http://www.linkedin.com/in/mohamed-nashaat-jr)
 
+-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nashaat10&theme=dark)
+
+
 ## ⚡ Fun Fact
 "The best way to predict the future is to create it."
