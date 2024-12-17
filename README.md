@@ -18,6 +18,9 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer  with a love fo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Nashaat-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohamed-nashaat-jr)
 
 
+-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nashaat10&theme=dark)
+
+
 
 
 ## ⚡ Fun Fact
