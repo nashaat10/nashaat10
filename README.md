@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Nashaat! 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer  with a love for creating web applications and solving real-world problems with code. Here's a little about me:
+Welcome to my GitHub profile! I'm a passionate Software Engineer  who loves creating web applications and solving real-world problems with code. Here's a little about me:
 
 ## 🚀 About Me
 - 🌱 I’m currently enhancing my skills in **BackEnd** development.
@@ -17,8 +17,9 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer  with a love fo
 [![Twitter](https://img.shields.io/badge/Twitter-@nashaat_jr-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/nashaat_jr?s=21)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Nashaat-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohamed-nashaat-jr)
 
--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nashaat10&theme=dark)
 
+## 🔥Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nashaat10&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=00FFFF&fire=FF4500&currStreakNum=FFFFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&background=0D1117)
 
 
 
