@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer  who loves crea
 
 
 ## 🔥Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nashaat10&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=00FFFF&fire=FF4500&currStreakNum=FFFFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nashaat10&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF&ring=FFD700&fire=FF4500&currStreakNum=FFFFFF&currStreakLabel=FFD700&sideNums=FFFFFF&sideLabels=FFFFFF&background=0D1117)
 
 
 
