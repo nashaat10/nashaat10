@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer  who loves crea
 ## 📫 Get in Touch
 [![Email](https://img.shields.io/badge/Email-nashaatt661%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:nashaatt661@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@nashaat_jr-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/nashaat_jr?s=21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Nashaat-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohamed-nashaat-jr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Nashaat-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohamed-nashaat-jr) 
 
 
 ## 🔥Streak
