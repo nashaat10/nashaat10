@@ -30,9 +30,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-## 🔥Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=nashaat10&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 
 ## ⚡ Fun Facts
 - The function of good software is to make the complex appear simple
