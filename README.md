@@ -2,7 +2,7 @@
 
 <h4>Welcome to my GitHub profile! I'm a passionate Backend Engineer specializing in building scalable systems. Here's what drives me:</h4> 
 
-## 🚀 About Me
+## 🚀 About Me 
 - 🔭 **Currently:** Building high-performance APIs and event-driven architectures at BAWQ Telecom 
 - 🌱 **Learning:** Advanced message queue patterns with RabbitMQ & real-time systems with Socket.IO
 - 💡 **Passionate About:** Solving complex scalability challenges 
