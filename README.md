@@ -1,5 +1,7 @@
 # Hi there, I'm Mohamed Nashaat! 👋 
 
+<h3 align="center">Software Engineer | Backend</h3>
+
 ## 🚀 About Me 
 - 🔭 **Currently:** Building high-performance APIs and event-driven architectures at BAWQ Telecom   
 - 🌱 **Learning:** Advanced message queue patterns with RabbitMQ & real-time systems with Socket.IO 
