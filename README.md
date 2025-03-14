@@ -1,4 +1,6 @@
-# Hi there, I'm Mohamed Nashaat! 👋 
+<h1><p align="center">
+  Hi there, I'm Mohamed Nashaat! 👋
+</p></h1>
 
 <h3 align="center">Software Engineer | Backend</h3>
 
