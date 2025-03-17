@@ -6,7 +6,6 @@
 
 ## 🚀 About Me 
 - 🔭 **Currently:** Building high-performance APIs and event-driven architectures at BAWQ Telecom   
-- 🌱 **Learning:** Advanced message queue patterns with RabbitMQ & real-time systems with Socket.IO 
 - 💡 **Passionate About:** Solving complex scalability challenges 
   
 ## 🌐 Connect With Me
