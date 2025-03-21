@@ -6,7 +6,7 @@
 
 ## 🚀 About Me 
 - 🔭 **Currently:** Building high-performance APIs and event-driven architectures at BAWQ Telecom   
-- 💡 **Passionate About:** Solving complex scalability challenges 
+- 💡 **Passionate About:** Solving complex scalability challenges  
   
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohamed-nashaat-jr)
