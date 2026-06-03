@@ -2,7 +2,7 @@
   Hi there, I'm Mohamed Nashaat! 👋
 </p></h1> 
 
-<h3 align="center">Software Engineer | Backend</h3>  
+<h3 align="center">Software Engineer | Backend</h3>   
 
 ## 🚀 About Me 
 - 🔭 **Currently:** Building high-performance APIs and event-driven architectures 
