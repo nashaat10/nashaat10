@@ -5,7 +5,7 @@
 <h3 align="center">Software Engineer | Backend</h3>   
 
 ## 🚀 About Me 
-- 🔭 **Currently:** Building high-performance APIs and event-driven architectures @BAWQ  
+- 🔭 **Currently:** Building high-performance APIs and event-driven architectures @BAWQ 
 - 💡 **Passionate About:** Solving complex scalability challenges 
 
 ## 🌐 Connect With Me
