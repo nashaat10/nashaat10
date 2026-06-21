@@ -4,7 +4,7 @@
 
 <h3 align="center">Software Engineer | Backend</h3>
 
-📫 How to reach me: nashaatt661@gmail.com
+- 📫 How to reach me: nashaatt661@gmail.com
 
 
 ## 🛠️ Tech Stack
