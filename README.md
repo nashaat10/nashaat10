@@ -4,14 +4,8 @@
 
 <h3 align="center">Software Engineer | Backend</h3>
 
-## 🚀 About Me 
-- 🔭 **Currently:** Building high-performance APIs and event-driven architectures @BAWQ 
-- 💡 **Passionate About:** Solving complex scalability challenges 
-
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohamed-nashaat-jr)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nashaat_jr)
-[![Email](https://img.shields.io/badge/-nashaatt661%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nashaatt661@gmail.com)
+
 
 ## 🛠️ Tech Stack
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
