@@ -24,5 +24,4 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nashaat10&theme=tokyonight&hide_border=true)](https://github.com/nashaat10)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=nashaat10&theme=tokyonight&hide_border=true&card_width=500)](https://github.com/nashaat10)
