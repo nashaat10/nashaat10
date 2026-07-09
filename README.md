@@ -49,12 +49,6 @@
   <img src="https://streak-stats.demolab.com?user=nashaat10&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nashaat10&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nashaat10&style=for-the-badge&color=blueviolet" />
-</p>
+
