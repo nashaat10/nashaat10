@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="mailto:nashaatt661@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  
+    <img src="https://img.shields.io/badge/Email-nashaatt661%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ### 🛠️ Tech Stack
