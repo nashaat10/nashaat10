@@ -45,16 +45,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=nashaat10&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashaat10&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+
 </p>
 
 <p align="center">
