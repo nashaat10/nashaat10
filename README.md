@@ -1,14 +1,19 @@
-[<h1 align="center">Hi there, I'm Mohamed Nashaat! 👋</h1>
+<h1 align="center">Hi there, I'm Mohamed Nashaat! 👋</h1>
 <h3 align="center">Software Engineer | Backend</h3>
 <p align="center">
   Building scalable backend systems with Node.js, Java, and clean architecture.
 </p>
+
 <p align="center">
   <a href="mailto:nashaatt661@gmail.com">
     <img src="https://img.shields.io/badge/Email-nashaatt661%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
 ### 🛠️ Tech Stack
+
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,10 +42,22 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
----
-### 📊 GitHub Stats
-<p align="center">
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nashaat10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="Mohamed's GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashaat10&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="Top Languages"
+    width="48%"
+  />
 </p>
 
 <p align="center">
@@ -49,4 +66,3 @@
     alt="GitHub Streak"
   />
 </p>
-](url)
