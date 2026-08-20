@@ -40,7 +40,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 ### 📊 GitHub Stats
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=nashaat10&theme=tokyonight&hide_border=true&border_radius=10"
