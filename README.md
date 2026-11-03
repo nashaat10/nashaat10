@@ -6,6 +6,7 @@
 <p align="center">
   <a href="mailto:nashaatt661@gmail.com">
     <img src="https://img.shields.io/badge/Email-nashaatt661%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201008160257)
   </a>
 </p>
 
