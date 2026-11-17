@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer | Backend</h3> 
 <p align="center">
   Building scalable backend systems with Node.js, Java, and clean architecture.
-  
 </p>
 <p align="center">
   <a href="mailto:nashaatt661@gmail.com">
